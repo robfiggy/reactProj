@@ -1,0 +1,35 @@
+#del {
+    color: red;
+    border: solid;
+    border-color: red;
+    text-decoration: none;
+    text-align: center;
+}
+
+#listItem {
+    padding: .5em;
+}
+
+#add {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    border-style: double;
+    border-color: black;
+    padding-bottom: 1em;
+    margin: .5em .5em .5em .5em;
+    background-color: beige;
+}
+
+#latest {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    border-style: double;
+    border-color: black;
+    padding-bottom: 1em;
+    margin: .5em .5em .5em .5em;
+    background-color: bisque;
+}
